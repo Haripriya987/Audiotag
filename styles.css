@@ -1,0 +1,18 @@
+div{
+    display:flex;
+    justify-content:space-between;
+}
+button{
+    color: rgba(18, 102, 42, 0.841);
+}
+.aa{
+    justify-content: center;
+    align-content: center;
+    
+    margin-top: 15%;
+}
+h1{
+    font-size:50px;
+    color:rgb(104, 75, 28);
+
+}
